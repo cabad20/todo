@@ -2,3 +2,8 @@
   Place all the styles related to the matching controller here.
   They will automatically be included in application.css.
 */
+body{
+  background-color: #4F91B2;
+  font-family: fantasy;
+  font-size: 18px;
+}
